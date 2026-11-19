@@ -1,0 +1,13 @@
+# Compiled C/C++ artifacts
+*.o
+*.obj
+*.a
+*.so
+*.out
+*.exe
+build/
+
+# IDE / editor configs
+.vscode/
+.idea/
+.DS_Store
